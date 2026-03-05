@@ -9,7 +9,7 @@ int main(){
     while(how_many_times != 4){
         
         print_func(col_1, col_2, col_3);
-        printf("\nWhich is the column of your chosen column : ");
+        printf("\nWhich is the column of your choosen number : ");
         scanf("%d", &which);
 
 
